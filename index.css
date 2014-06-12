@@ -1,43 +1,47 @@
 html, body{
- font-family: trebuchet, arial, verdana, sans-serif;
- height: 100%;
- margin: 20px 80px 10px 80px;
+	font-family: trebuchet, arial, verdana, sans-serif;
+	height: 100%;
+	margin: 20px 80px 10px 80px;
 
 }
 
 h1 {
- color: #45291d;
- margin-bottom: -15px;
- font-size: 350%;
+	color: #666666;
+	margin-bottom: -15px;
+	font-size: 350%;
+	text-align:center;
 }
 
 h2 {
- color: white;
- margin-bottom: -15px;
- background-color: #45291d;
- padding: 5px 15px 5px 15px;
- 
+	color: white;
+	margin-bottom: -15px;
+	background-color: #a4bfdd;
+	padding: 200px 15px 200px 15px;
+	text-align:center;
+	font-size: 250%;
+	
 }
 
 h3 {
- color: #45291d;
- margin-bottom: -1px;
- margin-top: -2px;
- padding-left: 20px;
- 
+	color: #89a1bb;
+	margin-bottom: -1px;
+	margin-top: -2px;
+	/*padding-left: 20px;*/
+	text-align:center;
+	
 }
 
 p {
- color: #71481c;
- text-align:justify;
- font-size: 120%
+	color: #444444;
+	text-align:justify;
+	font-size: 120%
 }
 
 blockquote{
- color: #cccccc;
- font-family: courier;
- padding: 5px 50px 5px 50px;
- font-size: 110%
+	color: #666666;
+	font-family: courier;
+	padding: 5px 50px 5px 50px;
+	font-size: 110%
 }
 
 ul {
@@ -50,8 +54,8 @@ li{
 }
 
 .image{
- margin:20px;
- padding-bottom: 10px;
- display: inline;
- margin-top: 20px;
+	margin:20px;
+	padding-bottom: 10px;
+	display: inline;
+	margin-top: 20px;
 }
