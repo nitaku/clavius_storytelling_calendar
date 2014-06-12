@@ -4,12 +4,34 @@
         <meta charset="utf-8">
         <link rel="stylesheet" href="index.css">
         <script src="lib/showdown.js"></script>
-        
-        <script src="lib/showdown_extensions/storytelling.js"></script>
-        <link rel="stylesheet" href="lib/showdown_extensions/storytelling.css
-        
+        <script src="http://d3js.org/d3.v3.min.js"></script>
     </head>
     <body>
-        <script src="index.js"></script>
+        <script>
+            // define a language extension
+            var storytelling = function(converter) {
+              return [{ 
+                type: 'lang',
+                filter: function(text) {
+                  // |[blabla]| -> <span class="demo">blabla</span>
+                  return text.replace(/\|\[(.*)\]\|/g, '<span class="demo">$1</span>');
+                }
+              }];
+            };
+            window.Showdown.extensions.storytelling = storytelling;
+            
+            // create a converter
+            var converter = new Showdown.converter({extensions: ['storytelling']});
+            
+            d3.text('content.md', function(data) {
+                // convert the Markdown content
+                var content = converter.makeHtml(data);
+                
+                // append the converted Markdown to the body
+                d3.select('body')
+                  .append('div')
+                    .html(content);
+            });
+        </script>
     </body>
 </html>
