@@ -1,7 +1,6 @@
 html, body{
 	font-family: trebuchet, arial, verdana, sans-serif;
 	height: 100%;
-	margin: 20px 80px 10px 80px;
 
 }
 
@@ -16,7 +15,7 @@ h2 {
 	color: white;
 	margin-bottom: -15px;
 	background-color: #a4bfdd;
-	padding: 200px 15px 200px 15px;
+	padding: 200px 0px 200px 0px;
 	text-align:center;
 	font-size: 250%;
 	
@@ -35,6 +34,8 @@ p {
 	color: #444444;
 	text-align:justify;
 	font-size: 120%
+	width: 60%;
+	margin:auto;
 }
 
 blockquote{
