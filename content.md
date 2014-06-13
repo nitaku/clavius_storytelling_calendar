@@ -61,7 +61,7 @@ Come era lecito immaginare, probabilmente anche dallo stesso Gregorio XIII, il r
 Keplero non fu l'unico uomo di scienza protestante ad opporsi alla riforma. Alcuni tentarono di attaccarla anche dal punto di vista scientifico, come Giuseppe Giusto Scaligero, noto per essere stato tra i più grandi eruditi della sua epoca, o [Michael Maestlin](http://www-history.mcs.st-and.ac.uk/Biographies/Mastlin.html), maestro di Keplero. Per ribattere a questi attacchi i vari papi che si susseguirono tra le fine del Cinquecento e l'inizio del Seicento incaricarono uno dei principali autori della riforma: Christophorus Clavius. Il gesuita, docente di matematica presso il Collegio romano, era anch'egli considerato un'autorità nel campo delle scienze. Basti considerare che il giovane Galileo Galilei nel 1588 si rivolse a lui per farsi scrivere una lettera di referenza per concorrere alla cattedra di matematica vacante presso l'università di Bologna. [Leggi la lettera](https://drive.google.com/?tab=mo&authuser=0#folders/0BwQicX9GlwwJYnFhT3gzNlZ3cE0)
 
 Clavius grazie anche all'aiuto di alcuni suoi allievi ribattè colpo su colpo agli attacchi dei protestanti, sicuro della correttezza che era stato svolto dalla commissione di riforma. Testimonianza di questo sono una serie di scritti usciti tra il 1582 e il 1603, anno in cui Clavius pubblicò la "spiegazione" del calendario, mettendo fine alla polemica ma non per questo contribuendo all'adozione del calendario gregoriano anche nei paesi protestanti.
-![Keplero][Manoscritto_calendario_Clavio.jpg]
+![Keplero2][Manoscritto_calendario_Clavio.jpg]
 
 **Introduzione del calendario gregoriano**
 Come si può osservare nella visualizzazione, l'introduzione del calendario non fu immediata né universale.
