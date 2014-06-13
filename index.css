@@ -60,3 +60,10 @@ li{
 	margin-top: 20px;
 }
 
+img[alt=Calvius] {
+	height: 450px;
+	float: left;
+	position: absolute;
+	left: 0px;
+	margin-top: 15px;
+}
