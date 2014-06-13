@@ -107,3 +107,8 @@ img[alt=titolo] {
 	width: 100%;
 	margin: auto;	
 }
+
+img[alt=Keplero] {
+	padding: 30;	
+}
+
