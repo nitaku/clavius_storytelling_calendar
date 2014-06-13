@@ -1,5 +1,5 @@
 
-Give us back our ten days!
+Alla ricerca del tempo perduto
 =========
 
 
@@ -7,16 +7,12 @@ Give us back our ten days!
 
 Indice:
 
-## 1. PERDERE 10 GIORNI: GLI EFFETTI ODIERNI (Es. Titolo giornale)
-Possibili titoli
- [occhiello] 	Dieci giorni di vita in meno
- [titolo]  Alla ricerca del tempo perduto 
- [sommario] 	La riforma del calendario riordinerà la cronologia 
- del tempo? 
-
+## 1. 
 Astronomi matematici teologi si sono coalizzati per toglierci dieci giorni di vita? Dopo l'invenzione dell'ora legale, che ci toglie un'ora a primavera, per restituircela (ma senza interessi!) in autunno, andremo a letto la sera di martedi 4 ottobre, per la festa di San Francesco, per destarci la mattina dopo il venerdi 15 ottobre! 
 Ci troveremo di colpo più vecchi di dieci giorni; gli appuntamenti  presi in quell'intervallo di tempo salteranno, i compleanni non si festeggeranno, avremo una domenica in meno per impetrare dal Signore che ci rimetta i nostri peccati...  E non è prevista nessuna restituzione, a differenza di quanto avviene per l'ora legale.
 Ma ci saranno vantaggi innegabili: l'equinozio di primavera tornerà a cadere il 21 marzo, e così le altre date che scandiscono i nostri anni agricoli, civili e religiosi. La Pasqua sarà più semplice da fissare e così ogni altra festività religiosa mobile. Finirà insomma la grande confusione cronografica che sinora ha dominato il mondo.
+
+L'ennesima bufala diffusa dalla rete? Oggi sì, ma nel 1582...
 
 ![Concilio di Trento][img704.jpg]
 ## 2. Quel fatidico 1582 - Un concilio, un papa, tanti astronomi e matematici
@@ -75,8 +71,7 @@ Come si può osservare nella visualizzazione, l'introduzione del calendario non 
 
 ## 5. 
 
-> Il mio mondo è finito, la mia forma è svuotata. Appartengo tutto al passato. E sono tenuto a riconoscergli autorità e a conformarvi la mia dipartita. Voglio dir questo: che la recente soppressione dei dieci giorni fatta dal papa mi ha colpito in modo che non posso adattarmici di buon grado. Appartengo a quegli anni nei quali contavamo diversamente. Un così antico e lungo uso mi rivendica e mi richiama a sé. Son costretto ad essere un po’ eretico su questo punto. Incapace di novità, sia pure correttiva. La mia immaginazione, mio malgrado, si getta sempre dieci giorni più avanti o più indietro. E mi brontola negli orecchi: «Questa regola riguarda quelli che sono a venire». Se la salute stessa, tanto dolce, viene a ritrovarmi a intervalli, è per darmi il rimpianto più che il possesso di sé. Non ho più dove accoglierla. Il tempo mi abbandona. Senza di esso nulla si possiede.
-> -- *Montaigne*
+[[http://googledrive.com/host/0B3oUjeoosUeQSjlxNWh5dmlCWUU/michel-eyquem-de-montaigne.jpg|> Il mio mondo è finito, la mia forma è svuotata. Appartengo tutto al passato. E sono tenuto a riconoscergli autorità e a conformarvi la mia dipartita. Voglio dir questo: che la recente soppressione dei dieci giorni fatta dal papa mi ha colpito in modo che non posso adattarmici di buon grado. Appartengo a quegli anni nei quali contavamo diversamente. Un così antico e lungo uso mi rivendica e mi richiama a sé. Son costretto ad essere un po’ eretico su questo punto. Incapace di novità, sia pure correttiva. La mia immaginazione, mio malgrado, si getta sempre dieci giorni più avanti o più indietro. E mi brontola negli orecchi: «Questa regola riguarda quelli che sono a venire». Se la salute stessa, tanto dolce, viene a ritrovarmi a intervalli, è per darmi il rimpianto più che il possesso di sé. Non ho più dove accoglierla. Il tempo mi abbandona. Senza di esso nulla si possiede. -- *Michel de Montaigne, Esssay*> Mon monde est failly, ma forme expiree. Ie suis du tout passé.Et suis tenu de l'authoriser & d'y conformer mon issue. Ie veux dire ceci par manière d'exemple: Que l'eclypsement nouveau des dix jours du Pape, m'ont pris si bas, que ie ne m'en puis bonnement accoustrer. Ie suis des années auxquelles nous comptions autrement. Vn si ancien & long usage, me vendique & rappelle à soy. Ie suis contraint d'estre un peu hérétique par là. Incapable de nouuelleté, messe corrective. Mon imagination en despit de mes dents se jette tousiours dix jours plus avant, ou plus arrière. Et grommelle à mes oreilles: Ceste règle touche ceux, qui ont à estre. Si la santé mesme si succrée vient à me retrouuer par boutades, c'est pour me donner regret plustost que posséssion de soy. Ie n'ai plus où la retirer. Le temps me laisse. Sans luy rien ne se possède. -- *Michel de Montaigne, Essay*]]
 
 Dunque, quel 5 ottobre 1582, giorno del cambiamento di data, sconvolse il filosofo Montaigne, e con lui centinaia di migliaia di persone comuni. Come risulta evidente dalla tabella superiore, si trattò dello sconvolgimento di un ordine di vita che gradatamente nei secoli, a tutta Europa e quindi a tutto il mondo, per il tramite dell'egemonia europea sull'orbe terraqueo.
 
@@ -94,5 +89,6 @@ Negli aeroporti di Pechino, del Cairo, di Gerusalemme data ed ora dei voli sono 
 [Johannes_Kepler_1610.jpg]: http://googledrive.com/host/0B3oUjeoosUeQSjlxNWh5dmlCWUU/Johannes_Kepler_1610.jpg
 [Manoscritto_calendario_Clavio.jpg]: http://googledrive.com/host/0B3oUjeoosUeQSjlxNWh5dmlCWUU/Manoscritto_calendario_Clavio.jpg
 [img704.jpg]: http://googledrive.com/host/0B3oUjeoosUeQSjlxNWh5dmlCWUU/img704.jpg
+[michel-eyquem-de-montaigne.jpg]: http://googledrive.com/host/0B3oUjeoosUeQSjlxNWh5dmlCWUU/michel-eyquem-de-montaigne.jpg
   [1]: http://drive.google.com/?authuser=0#folders/0B3oUjeoosUeQSjlxNWh5dmlCWUU
   
