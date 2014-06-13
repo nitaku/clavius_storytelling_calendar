@@ -48,7 +48,6 @@ Fu solo nel 1575 che il papa Gregorio XIII decise di istituire un'apposita commi
 I lavori della commissione durarono fino al 1582: il 24 febbraio di quell'anno Gregorio XIII emanò la bolla con cui veniva approvato il nuovo calendario, tutt'oggi in uso e chiamato "gregoriano" proprio in ricordo del papa che lo promulgò. 
 
 Leggi il testo della bolla [Italiano](http://dpgi.unina.it/giudice/calendar/Inter_Gravissimas.html) [Inglese](http://en.wikisource.org/wiki/Inter_gravissimas) [Latino](http://www.dervio.org/qd/gloss/calen/greg.htm)
-**[link al testo della bolla, latino-italiano-altre lingue]**
 
 ![Calvius][par.4_Christopher_Clavius.jpg]
 ## 4. Ricezione della riforma
