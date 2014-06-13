@@ -20,7 +20,6 @@ Ma ci saranno vantaggi innegabili: l'equinozio di primavera tornerà a cadere il
 
 ![Concilio di Trento][img704.jpg]
 ## 2. Quel fatidico 1582 - Un concilio, un papa, tanti astronomi e matematici
- 	
 Il [Concilio di Trento](http://www.treccani.it/enciclopedia/concilio-di-trento_(Dizionario-di-Storia)/) era durato poco meno di vent’anni (1545-1563). 
 Doveva servire a riunificare la cristianità dell’Europa occidentale dopo la frattura [luterana](http://it.wikipedia.org/wiki/Luteranesimo). Fallì l’obiettivo, ma ne colse un altro, di una grande importanza per tutti noi.
 Il calendario giuliano, fissato da Giulio Cesare verso il 46 a.C. con la consulenza dell’astronomo egizio  [Sosigene](http://www.treccani.it/enciclopedia/tag/sosigene/) era usato universalmente nell'Europa cristiana, ma poiché era sfasato di 11 minuti rispetto al reale corso del sole, aveva accumulato nel tempo un ritardo di svariati giorni. Ciò comportava problemi liturgici, sopratutto per la fissazione delle date delle feste mobili, come la Pasqua, ma vedeva  anche spostata la cadenza di solstizi ed equinozi, cosa che investiva direttamente il rapporto tra normale vita sociale e produzione agricola.
@@ -30,8 +29,6 @@ Quel 5 ottobre ogni persona sarebbe stata proiettata dieci giorni in avanti: da 
 Almeno nel mondo cattolico entrava in vigore il Calendario Gregoriano, secondo [inserire qui la tavola del cambio di calendario per stato\società e data]
 
 
-- Per effetto della Bolla siglata da papa Gregorio XIII il 24 febbraio 1582 (o 1581?) nella sua villa di Frascati il mercoledi 5 ottobre 1582 si sarebbe trasformato nel venerdi 15 ottobre 1582
-
 ![Calendario gregoriano][par.3_gregoriano.jpg]
 ## 3. La riforma del calendario 
 **Il calendario giuliano**
@@ -39,9 +36,9 @@ La necessità di una riforma del calendario giuliano era già sentita da secoli.
 
 **La "scoperta" degli errori**
 Il primo ad accorgersi e a divulgare gli errori presenti nel calendario giuliano fu Ruggero Bacone che nel XIII secolo poteva affermare  
-![Roger Bacon][roger-bacon-4.jpg]
-> Kalendarium est intolerabilis omni sapienti, et horribilis omni astronomo, et derisibilis ab omni computista.
-> -- *Ruggero Bacone, Opus tertium, cap. 1 XVII*
+[[http://googledrive.com/host/0B3oUjeoosUeQSjlxNWh5dmlCWUU/roger-bacon-4.jpg|> Kalendarium est intolerabilis omni sapienti, et horribilis omni astronomo, et derisibilis ab omni computista.
+-- *Ruggero Bacone, Opus tertium, cap. 1 XVII* 
+> Il calendario è intollerabile per ogni erudito, orribile per ogni astronomo, e derisibile da ogni computista. -- *Ruggero Bacone, Opus tertium, cap. 1 XVII*]]
 
 Tre secoli dopo fu Copernico a richiamare l'attenzione sull'imprecisione del calendario giuliano. Bacone e Copernico sono solo due nomi eccellenti fra i molti che nel corso dei secoli criticarono o proposero una riforma del calendario. Un elemento ha accomunato tutte queste proposte: il fatto che non vennero mai prese seriamente in considerazione. Per portare a compimento una riforma che sarebbe entrata prepotentemente nelle vite di tutti, era necessaria, all'epoca come lo sarebbe oggi, una forte volontà politica. 
 
