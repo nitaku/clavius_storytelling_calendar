@@ -1,6 +1,5 @@
 
-![titolo][titolo]=========
-
+![titolo][titolo]
 
 
 ![giornale1][giornale1]
