@@ -103,7 +103,7 @@ img {
 }
 
 
-img[alt=titologiornale] {
+img[alt=titolo] {
 	width: 90%;
 	margin: auto;	
 }
