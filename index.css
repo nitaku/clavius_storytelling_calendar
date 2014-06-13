@@ -69,3 +69,7 @@ img[alt=Calvius] {
 	left: 0px;
 	margin-top: 15px;
 }
+
+img {
+	max-height:400px;
+}
