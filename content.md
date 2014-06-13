@@ -34,21 +34,15 @@ Almeno nel mondo cattolico entrava in vigore il Calendario Gregoriano, secondo [
 
 
 ## 3. La riforma del calendario 
-![Calendario gregoriano][par.3_gregoriano]
+![Calendario gregoriano][par.3_gregoriano.jpg]
 **Il calendario giuliano**
 La necessità di una riforma del calendario giuliano era già sentita da secoli. Lo strumento di misurazione del tempo introdotto da Giulio Cesare nel 45 a.C. iniziò ad essere usato impropriamente già un secolo dopo la sua introduzione, quando si decise di inserire un anno bisestile ogni 3, anziché ogni 4 anni. Il calendario giuliano conteneva comunque già nel suo impianto teorico un errore: considerava infatti la durata di un anno corrispondente a 365 giorni e 6 ore, introducendo così un errore di 11 minuti nella sua reale durata. Se si immagina questo errore considerando solo la vita di un uomo, esso non influisce in maniera decisiva sulla sua esistenza. Ma se si considera un arco di tempo di secoli questo piccolo errore comincia a sconvolgere sempre di più una società, a maggior ragione una società come quella cristiana, totalmente permeata dalla religione, la cui vita era scandita dal calendario delle feste religiose. Per motivi teologici era di fondamentale importanza celebrare queste ricorrenze con estrema precisione, per cui un errore di giorni nel loro calcolo non poteva essere ammesso. 
 
 **La "scoperta" degli errori**
 Il primo ad accorgersi e a divulgare gli errori presenti nel calendario giuliano fu Ruggero Bacone che nel XIII secolo poteva affermare  
-![Roger Bacon][roger-bacon-4]
+![Roger Bacon][roger-bacon-4.jpg]
 > Kalendarium est intolerabilis omni sapienti, et horribilis omni astronomo, et derisibilis ab omni computista.
 > -- *Ruggero Bacone, Opus tertium, cap. 1 XVII*
-**TRADURRE E POSIZIONARE ACCANTO ALL'IMMAGINE DI BACONE**
-
-**[aggiungere come pop up - Il monaco inglese pubblicò due scritti sul tema:
- - De computo naturali [link]
- - De reformatione calendarii [link]
-]**
 
 Tre secoli dopo fu Copernico a richiamare l'attenzione sull'imprecisione del calendario giuliano. Bacone e Copernico sono solo due nomi eccellenti fra i molti che nel corso dei secoli criticarono o proposero una riforma del calendario. Un elemento ha accomunato tutte queste proposte: il fatto che non vennero mai prese seriamente in considerazione. Per portare a compimento una riforma che sarebbe entrata prepotentemente nelle vite di tutti, era necessaria, all'epoca come lo sarebbe oggi, una forte volontà politica. 
 
@@ -61,6 +55,7 @@ Fu solo nel 1575 che il papa Gregorio XIII decise di istituire un'apposita commi
 
 I lavori della commissione durarono fino al 1582: il 24 febbraio di quell'anno Gregorio XIII emanò la bolla con cui veniva approvato il nuovo calendario, tutt'oggi in uso e chiamato "gregoriano" proprio in ricordo del papa che lo promulgò. 
 
+Leggi il testo della bolla [Italiano](http://dpgi.unina.it/giudice/calendar/Inter_Gravissimas.html) [Inglese](http://en.wikisource.org/wiki/Inter_gravissimas) [Latino](http://www.dervio.org/qd/gloss/calen/greg.htm)
 **[link al testo della bolla, latino-italiano-altre lingue]**
 
 ## 4. Ricezione della riforma
@@ -72,14 +67,13 @@ La promulgazione del calendario gregoriano, sebbene rappresenti ai nostri occhi 
 
 **Scontro protestanti-cattolici**
 Come era lecito immaginare, probabilmente anche dallo stesso Gregorio XIII, il rifiuto della riforma da parte protestante fu completo. Stando a quanto riportato da alcuni storici, [Giovanni Keplero](http://www-groups.dcs.st-and.ac.uk/history/Biographies/Kepler.html), protestante e uno fra i più importanti astronomi copernicani dell'epoca, nonostante non avesse nulla da contestare alla validità scientifica della riforma, peraltro basata sulle osservazioni astronomiche effettuate dallo stesso Copernico, pare sostenesse che fosse preferibile "essere in disaccordo con le stelle piuttosto che dichiararsi in accordo con il papa". 
-**[immagine Keplero]**
+![Keplero][Johannes_Kepler_1610.jpg]
 
 **Il ruolo di Clavius**
-Keplero non fu l'unico uomo di scienza protestante ad opporsi alla riforma. Alcuni tentarono di attaccarla anche dal punto di vista scientifico, come Giuseppe Giusto Scaligero, noto per essere stato tra i più grandi eruditi della sua epoca, o [Michael Maestlin](http://www-history.mcs.st-and.ac.uk/Biographies/Mastlin.html), maestro di Keplero. Per ribattere a questi attacchi i vari papi che si susseguirono tra le fine del Cinquecento e l'inizio del Seicento incaricarono uno dei principali autori della riforma: Christophorus Clavius. Il gesuita, docente di matematica presso il Collegio romano, era anch'egli considerato un'autorità nel campo delle scienze. Basti considerare che il giovane Galileo Galilei nel 1588 si rivolse a lui per farsi scrivere una lettera di referenza per concorrere alla cattedra di matematica vacante presso l'università di Bologna.
-**[inserire un'iconcina di una lettera che rimanda alla lettera 42 (apug 530). Inseire poi la didascalia: "Questa lettera è molto importante perché è la prima del carteggio Clavius-Galilei e anche perché è la più antica lettera di Galileo che si conservi integra e datata. Inoltre è l'unica che testimonia un soggiorno romano di Galileo nel 1587, dove probabilmente conobbe Clavius da cui cercava un appoggio (forse) per ottenere la cattedra di matematica allo Studio di Bologna: Clavius raccomandò però Giovanni Antonio Magini, la cui produzione scientifica era più importante in quegli anni. Galileo chiede a Clavius di verificare la correttezza di una dimostrazione geometrica."]**
+Keplero non fu l'unico uomo di scienza protestante ad opporsi alla riforma. Alcuni tentarono di attaccarla anche dal punto di vista scientifico, come Giuseppe Giusto Scaligero, noto per essere stato tra i più grandi eruditi della sua epoca, o [Michael Maestlin](http://www-history.mcs.st-and.ac.uk/Biographies/Mastlin.html), maestro di Keplero. Per ribattere a questi attacchi i vari papi che si susseguirono tra le fine del Cinquecento e l'inizio del Seicento incaricarono uno dei principali autori della riforma: Christophorus Clavius. Il gesuita, docente di matematica presso il Collegio romano, era anch'egli considerato un'autorità nel campo delle scienze. Basti considerare che il giovane Galileo Galilei nel 1588 si rivolse a lui per farsi scrivere una lettera di referenza per concorrere alla cattedra di matematica vacante presso l'università di Bologna. [Leggi la lettera](https://drive.google.com/?tab=mo&authuser=0#folders/0BwQicX9GlwwJYnFhT3gzNlZ3cE0)
 
 Clavius grazie anche all'aiuto di alcuni suoi allievi ribattè colpo su colpo agli attacchi dei protestanti, sicuro della correttezza che era stato svolto dalla commissione di riforma. Testimonianza di questo sono una serie di scritti usciti tra il 1582 e il 1603, anno in cui Clavius pubblicò la "spiegazione" del calendario, mettendo fine alla polemica ma non per questo contribuendo all'adozione del calendario gregoriano anche nei paesi protestanti.
-[immagine manoscritto]
+![Keplero][Manoscritto_calendario_Clavio.jpg]
 
 **Introduzione del calendario gregoriano**
 Come si può osservare nella visualizzazione, l'introduzione del calendario non fu immediata né universale.
@@ -96,8 +90,10 @@ Come si può osservare nella visualizzazione, l'introduzione del calendario non 
 [photo1]: http://googledrive.com/host/0B3oUjeoosUeQSjlxNWh5dmlCWUU/William_Hogarth.jpg
 [recepimento]: http://upload.wikimedia.org/wikipedia/en/timeline/5548500808a3da878b2d71602a5cb5aa.png
 [roger-bacon-4]:  http://googledrive.com/host/0B3oUjeoosUeQSjlxNWh5dmlCWUU/roger-bacon-4.jpg
-[par.3_gregoriano]: http://googledrive.com/host/0B3oUjeoosUeQSjlxNWh5dmlCWUU/par.3_gregoriano
+[par.3_gregoriano]: http://googledrive.com/host/0B3oUjeoosUeQSjlxNWh5dmlCWUU/par.3_gregoriano.jpg
 [par.4_Christopher_Clavius.jpg]: http://googledrive.com/host/0B3oUjeoosUeQSjlxNWh5dmlCWUU/par.4_Christopher_Clavius.jpg
 [par.4_Michael_Maestlin.jpg]: http://googledrive.com/host/0B3oUjeoosUeQSjlxNWh5dmlCWUU/par.4_Michael_Maestlin.jpg
+[Johannes_Kepler_1610.jpg]: http://googledrive.com/host/0B3oUjeoosUeQSjlxNWh5dmlCWUU/Johannes_Kepler_1610.jpg
+[Manoscritto_calendario_Clavio.jpg]: http://googledrive.com/host/0B3oUjeoosUeQSjlxNWh5dmlCWUU/Manoscritto_calendario_Clavio.jpg
   [1]: http://drive.google.com/?authuser=0#folders/0B3oUjeoosUeQSjlxNWh5dmlCWUU
   
