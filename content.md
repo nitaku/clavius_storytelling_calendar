@@ -18,7 +18,7 @@ Astronomi matematici teologi si sono coalizzati per toglierci dieci giorni di vi
 Ci troveremo di colpo più vecchi di dieci giorni; gli appuntamenti  presi in quell'intervallo di tempo salteranno, i compleanni non si festeggeranno, avremo una domenica in meno per impetrare dal Signore che ci rimetta i nostri peccati...  E non è prevista nessuna restituzione, a differenza di quanto avviene per l'ora legale.
 Ma ci saranno vantaggi innegabili: l'equinozio di primavera tornerà a cadere il 21 marzo, e così le altre date che scandiscono i nostri anni agricoli, civili e religiosi. La Pasqua sarà più semplice da fissare e così ogni altra festività religiosa mobile. Finirà insomma la grande confusione cronografica che sinora ha dominato il mondo.
 
-
+![Concilio di Trento][img704.jpg]
 ## 2. Quel fatidico 1582 - Un concilio, un papa, tanti astronomi e matematici
  	
 Il [Concilio di Trento](http://www.treccani.it/enciclopedia/concilio-di-trento_(Dizionario-di-Storia)/) era durato poco meno di vent’anni (1545-1563). 
@@ -32,9 +32,8 @@ Almeno nel mondo cattolico entrava in vigore il Calendario Gregoriano, secondo [
 
 - Per effetto della Bolla siglata da papa Gregorio XIII il 24 febbraio 1582 (o 1581?) nella sua villa di Frascati il mercoledi 5 ottobre 1582 si sarebbe trasformato nel venerdi 15 ottobre 1582
 
-
-## 3. La riforma del calendario 
 ![Calendario gregoriano][par.3_gregoriano.jpg]
+## 3. La riforma del calendario 
 **Il calendario giuliano**
 La necessità di una riforma del calendario giuliano era già sentita da secoli. Lo strumento di misurazione del tempo introdotto da Giulio Cesare nel 45 a.C. iniziò ad essere usato impropriamente già un secolo dopo la sua introduzione, quando si decise di inserire un anno bisestile ogni 3, anziché ogni 4 anni. Il calendario giuliano conteneva comunque già nel suo impianto teorico un errore: considerava infatti la durata di un anno corrispondente a 365 giorni e 6 ore, introducendo così un errore di 11 minuti nella sua reale durata. Se si immagina questo errore considerando solo la vita di un uomo, esso non influisce in maniera decisiva sulla sua esistenza. Ma se si considera un arco di tempo di secoli questo piccolo errore comincia a sconvolgere sempre di più una società, a maggior ragione una società come quella cristiana, totalmente permeata dalla religione, la cui vita era scandita dal calendario delle feste religiose. Per motivi teologici era di fondamentale importanza celebrare queste ricorrenze con estrema precisione, per cui un errore di giorni nel loro calcolo non poteva essere ammesso. 
 
@@ -58,9 +57,8 @@ I lavori della commissione durarono fino al 1582: il 24 febbraio di quell'anno G
 Leggi il testo della bolla [Italiano](http://dpgi.unina.it/giudice/calendar/Inter_Gravissimas.html) [Inglese](http://en.wikisource.org/wiki/Inter_gravissimas) [Latino](http://www.dervio.org/qd/gloss/calen/greg.htm)
 **[link al testo della bolla, latino-italiano-altre lingue]**
 
-## 4. Ricezione della riforma
 ![Calvius][par.4_Christopher_Clavius.jpg]
-![Maestlin][par.4_Michael_Maestlin.jpg]
+## 4. Ricezione della riforma
 
 **Aspetto simbolico-politico della riforma**
 La promulgazione del calendario gregoriano, sebbene rappresenti ai nostri occhi un indiscutibile progresso scientifico, non venne interpretata esclusivamente in questo modo al momento della sua emanazione. L'Europa dell'epoca stava vivendo dall'inizio del Cinquecento una situazione di grande frammentazione dovuta allo scisma causato dalla riforma protestante, portata avanti da Lutero a partire dai paesi di area tedesca. La riforma aveva decretato una netta separazione all'interno dell'Europa cristiana, e in breve da disputa teologica si era tramutata in un violento clima di scontri politici. Con la riforma del calendario Gregorio XIII, cattolico, voleva ridare unità a tutti i cristiani, cattolici e protestanti, riconducendoli sotto il proprio potere spirituale attraverso l'adozione di un nuovo e comune modo di misurare il tempo.
@@ -85,6 +83,11 @@ Come si può osservare nella visualizzazione, l'introduzione del calendario non 
 > Il mio mondo è finito, la mia forma è svuotata. Appartengo tutto al passato. E sono tenuto a riconoscergli autorità e a conformarvi la mia dipartita. Voglio dir questo: che la recente soppressione dei dieci giorni fatta dal papa mi ha colpito in modo che non posso adattarmici di buon grado. Appartengo a quegli anni nei quali contavamo diversamente. Un così antico e lungo uso mi rivendica e mi richiama a sé. Son costretto ad essere un po’ eretico su questo punto. Incapace di novità, sia pure correttiva. La mia immaginazione, mio malgrado, si getta sempre dieci giorni più avanti o più indietro. E mi brontola negli orecchi: «Questa regola riguarda quelli che sono a venire». Se la salute stessa, tanto dolce, viene a ritrovarmi a intervalli, è per darmi il rimpianto più che il possesso di sé. Non ho più dove accoglierla. Il tempo mi abbandona. Senza di esso nulla si possiede.
 > -- *Montaigne*
 
+Dunque, quel 5 ottobre 1582, giorno del cambiamento di data, sconvolse il filosofo Montaigne, e con lui centinaia di migliaia di persone comuni. Come risulta evidente dalla tabella superiore, si trattò dello sconvolgimento di un ordine di vita che gradatamente nei secoli, a tutta Europa e quindi a tutto il mondo, per il tramite dell'egemonia europea sull'orbe terraqueo.
+
+Noi nel XXI secolo viviamo in un mondo unificato da un calendario a cui si conformano per evidente semplicità, comodità e produttività anche società che al loro interno misurano il tempo in forme e cadenze diverse dalle nostre.
+
+Negli aeroporti di Pechino, del Cairo, di Gerusalemme data ed ora dei voli sono segnalati  secondo il calendario promulgato da Gregorio XIII grazie alla consulenza risolutiva del gesuita Cristoforo Clavio.
 
 
 [photo1]: http://googledrive.com/host/0B3oUjeoosUeQSjlxNWh5dmlCWUU/William_Hogarth.jpg
@@ -95,5 +98,6 @@ Come si può osservare nella visualizzazione, l'introduzione del calendario non 
 [par.4_Michael_Maestlin.jpg]: http://googledrive.com/host/0B3oUjeoosUeQSjlxNWh5dmlCWUU/par.4_Michael_Maestlin.jpg
 [Johannes_Kepler_1610.jpg]: http://googledrive.com/host/0B3oUjeoosUeQSjlxNWh5dmlCWUU/Johannes_Kepler_1610.jpg
 [Manoscritto_calendario_Clavio.jpg]: http://googledrive.com/host/0B3oUjeoosUeQSjlxNWh5dmlCWUU/Manoscritto_calendario_Clavio.jpg
+[img704.jpg]: http://googledrive.com/host/0B3oUjeoosUeQSjlxNWh5dmlCWUU/img704.jpg
   [1]: http://drive.google.com/?authuser=0#folders/0B3oUjeoosUeQSjlxNWh5dmlCWUU
   
