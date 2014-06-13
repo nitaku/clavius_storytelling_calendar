@@ -19,13 +19,13 @@
               },{
                 type: 'lang',
                 filter: function(text) {
-                  return text.replace(/\\[\[\[(.*)\]\]\]/g, '<div id="$1"></div>');    
+                  return text.replace(/\[\[\[(.*)\]\]\]/g, '<div id="$1"></div>');    
                     
                 }
               },{
                 type: 'lang',
                 filter: function(text) {
-                  return text.replace(/\\<<<(.*)>>>/g, '<span id="$1"></span>');    
+                  return text.replace(/<<<(.*)>>>/g, '<span id="$1"></span>');    
                     
                 }
               }];
