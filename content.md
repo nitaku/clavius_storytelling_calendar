@@ -1,6 +1,5 @@
 
-Alla ricerca del tempo perduto
-=========
+![titolo][titolo]=========
 
 
 
@@ -80,7 +79,7 @@ Noi nel XXI secolo viviamo in un mondo unificato da un calendario a cui si confo
 
 Negli aeroporti di Pechino, del Cairo, di Gerusalemme data ed ora dei voli sono segnalati  secondo il calendario promulgato da Gregorio XIII grazie alla consulenza risolutiva del gesuita Cristoforo Clavio.
 
-
+[titologiornale]: http://googledrive.com/host/0B3oUjeoosUeQSjlxNWh5dmlCWUU/titologiornale.png
 [giornale1]: http://googledrive.com/host/0B3oUjeoosUeQSjlxNWh5dmlCWUU/giornale1.jpg
 [giornale2]: http://googledrive.com/host/0B3oUjeoosUeQSjlxNWh5dmlCWUU/giornale2.jpg
 [giornale3]: http://googledrive.com/host/0B3oUjeoosUeQSjlxNWh5dmlCWUU/giornale3.jpg
