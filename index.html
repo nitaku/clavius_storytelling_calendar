@@ -43,6 +43,13 @@
                 d3.select('body')
                   .append('div')
                     .html(content);
+                    
+                // append the timeline
+                d3.select('#timeline_ricezione')
+                    .attr('style', 'overflow: hidden;')
+                  .append('iframe')
+                    .attr('style', 'overflow: hidden; width: 970px; height: 530px; border: none;')
+                    .attr('src', 'http://wafi.iit.cnr.it/webvis/lab/ca5409a39a3d0ea0a70b/index.html');
             });
         </script>
     </body>
