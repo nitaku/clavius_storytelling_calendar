@@ -50,9 +50,9 @@ I lavori della commissione durarono fino al 1582: il 24 febbraio di quell'anno G
 Leggi il testo della bolla [Italiano](http://dpgi.unina.it/giudice/calendar/Inter_Gravissimas.html) [Inglese](http://en.wikisource.org/wiki/Inter_gravissimas) [Latino](http://www.dervio.org/qd/gloss/calen/greg.htm)
 
 ![Calvius][par.4_Christopher_Clavius.jpg]
-## 4. Ricezione della riforma
+## 4. Ricezione del nuovo calendario
 
-**Aspetto simbolico-politico della riforma**
+**Aspetto simbolico-politico della riforma del calendario**
 La promulgazione del calendario gregoriano, sebbene rappresenti ai nostri occhi un indiscutibile progresso scientifico, non venne interpretata esclusivamente in questo modo al momento della sua emanazione. L'Europa dell'epoca stava vivendo dall'inizio del Cinquecento una situazione di grande frammentazione dovuta allo scisma causato dalla riforma protestante, portata avanti da Lutero a partire dai paesi di area tedesca. La riforma aveva decretato una netta separazione all'interno dell'Europa cristiana, e in breve da disputa teologica si era tramutata in un violento clima di scontri politici. Con la riforma del calendario Gregorio XIII, cattolico, voleva ridare unità a tutti i cristiani, cattolici e protestanti, riconducendoli sotto il proprio potere spirituale attraverso l'adozione di un nuovo e comune modo di misurare il tempo.
 
 **Scontro protestanti-cattolici**
