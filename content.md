@@ -10,26 +10,26 @@ Indice:
 ## 1. PERDERE 10 GIORNI: GLI EFFETTI ODIERNI (Es. Titolo giornale)
 Possibili titoli
  [occhiello] 	Dieci giorni di vita in meno
- [titolo]  	Furto del tempo? 
- [sommario] 	La riforma del calendario riordinerà la cronologia
+ [titolo]  Alla ricerca del tempo perduto 
+ [sommario] 	La riforma del calendario riordinerà la cronologia 
+ del tempo? 
 
 Astronomi matematici teologi si sono coalizzati per toglierci dieci giorni di vita? Dopo l'invenzione dell'ora legale, che ci toglie un'ora a primavera, per restituircela (ma senza interessi!) in autunno, andremo a letto la sera di martedi 4 ottobre, per la festa di San Francesco, per destarci la mattina dopo il venerdi 15 ottobre! 
 Ci troveremo di colpo più vecchi di dieci giorni; gli appuntamenti  presi in quell'intervallo di tempo salteranno, i compleanni non si festeggeranno, avremo una domenica in meno per impetrare dal Signore che ci rimetta i nostri peccati...  E non è prevista nessuna restituzione, a differenza di quanto avviene per l'ora legale.
 Ma ci saranno vantaggi innegabili: l'equinozio di primavera tornerà a cadere il 21 marzo, e così le altre date che scandiscono i nostri anni agricoli, civili e religiosi. La Pasqua sarà più semplice da fissare e così ogni altra festività religiosa mobile. Finirà insomma la grande confusione cronografica che sinora ha dominato il mondo.
 
 
-## 2. QUEL FATIDICO 1582 - Un concilio, un papa, tanti astronomi e matematici
+## 2. Quel fatidico 1582 - Un concilio, un papa, tanti astronomi e matematici
  	
 Il [Concilio di Trento](http://www.treccani.it/enciclopedia/concilio-di-trento_(Dizionario-di-Storia)/) era durato poco meno di vent’anni (1545-1563). 
 Doveva servire a riunificare la cristianità dell’Europa occidentale dopo la frattura [luterana](http://it.wikipedia.org/wiki/Luteranesimo). Fallì l’obiettivo, ma ne colse un altro, di una grande importanza per tutti noi.
-Il calendario giuliano, fissato da Giulio Cesare verso il 46 c.C.  con la consulenza dell’astronomo egizio  [Sosigene](http://www.treccani.it/enciclopedia/tag/sosigene/) era usato universalmente nell'Europa cristiana, ma poiché era sfasato di 11 minuti rispetto al reale corso del sole, aveva accumulato nel tempo un ritardo di svariati giorni. Ciò comportava problemi liturgici, sopratutto per la fissazione delle date delle feste mobili, come la Pasqua, ma vedeva  anche spostata la cadenza di solstizi ed equinozi, cosa che investiva direttamente il rapporto tra normale vita sociale e produzione agricola.
+Il calendario giuliano, fissato da Giulio Cesare verso il 46 a.C. con la consulenza dell’astronomo egizio  [Sosigene](http://www.treccani.it/enciclopedia/tag/sosigene/) era usato universalmente nell'Europa cristiana, ma poiché era sfasato di 11 minuti rispetto al reale corso del sole, aveva accumulato nel tempo un ritardo di svariati giorni. Ciò comportava problemi liturgici, sopratutto per la fissazione delle date delle feste mobili, come la Pasqua, ma vedeva  anche spostata la cadenza di solstizi ed equinozi, cosa che investiva direttamente il rapporto tra normale vita sociale e produzione agricola.
 I prelati riuniti a Trento colsero questa duplice esigenza di riorganizzare il calendario, e mobilitarono un grande insieme di forze, tra cui, nella fase della realizzazione conclusiva, spiccò la figura del matematico ed astronomo [Cristophorus Clavius]( http://claviusontheweb.it/storytelling/clavius-life/) il tedesco Christopher Schlüsse, Bamberg 1538 - Roma 1612. 
 Grazie a lui ed agli altri che lo coadiuvarono nei complicatissimi calcoli necessari, papa [Gregorio XIII]() emanò una bolla (equivalente ad un decreto legge odierno) per cui  il 24 febbraio 1582 il futuro mercoledì 5 ottobre 1582 si sarebbe trasformato nel venerdi 15 ottobre 1582.
 Quel 5 ottobre ogni persona sarebbe stata proiettata dieci giorni in avanti: da quel giorno sarebbe decaduto l’antico calendario giuliano.
 Almeno nel mondo cattolico entrava in vigore il Calendario Gregoriano, secondo [inserire qui la tavola del cambio di calendario per stato\società e data]
 
 
-## 2. 1582: l'anno di 355 giorni
 - Per effetto della Bolla siglata da papa Gregorio XIII il 24 febbraio 1582 (o 1581?) nella sua villa di Frascati il mercoledi 5 ottobre 1582 si sarebbe trasformato nel venerdi 15 ottobre 1582
 
 
@@ -76,20 +76,11 @@ Keplero non fu l'unico uomo di scienza protestante ad opporsi alla riforma. Alcu
 Clavius grazie anche all'aiuto di alcuni suoi allievi ribattè colpo su colpo agli attacchi dei protestanti, sicuro della correttezza che era stato svolto dalla commissione di riforma. 
 
 **Introduzione del calendario gregoriano**
-Come si può osservare nell'infografica
-**[infografica]**
-tra  n gli anni l'Europa che fino a quel momento era stata unita sotto un unico credo, improvvisamente 
-- Italia (Regno di Napoli, Granducato di Toscana, Regno di Sardegna, ...) Spagna, Portogallo, Francia recepiscono la bolla gli altri paesi cristiani (quelli con calendario Giuliano) recepiscono la bolla pontificia in tempi differenti. 
-- I vari sovrani (come Filippo II) fanno propria la direttiva papale. Filippo II estende l'adozione anche alle colonie.
-- Viene recepita la riforma anche in paesi non cristiani come Giappone, Turchia, Cina 1911 (rivoluzione)
-![tabella recepimento riforma][recepimento]
+Come si può osservare nella visualizzazione, l'introduzione del calendario non fu immediata né universale.
 
+[[[timeline_ricezione]]]
 
-
-
-## 5. Il ruolo di Clavius [ex REAZIONI NEGLI ALTRI STATI]
-
-## 6. CHIUSURA CON RICHIAMO ALL'INIZIO
+## 5. 
 
 > Il mio mondo è finito, la mia forma è svuotata. Appartengo tutto al passato. E sono tenuto a riconoscergli autorità e a conformarvi la mia dipartita. Voglio dir questo: che la recente soppressione dei dieci giorni fatta dal papa mi ha colpito in modo che non posso adattarmici di buon grado. Appartengo a quegli anni nei quali contavamo diversamente. Un così antico e lungo uso mi rivendica e mi richiama a sé. Son costretto ad essere un po’ eretico su questo punto. Incapace di novità, sia pure correttiva. La mia immaginazione, mio malgrado, si getta sempre dieci giorni più avanti o più indietro. E mi brontola negli orecchi: «Questa regola riguarda quelli che sono a venire». Se la salute stessa, tanto dolce, viene a ritrovarmi a intervalli, è per darmi il rimpianto più che il possesso di sé. Non ho più dove accoglierla. Il tempo mi abbandona. Senza di esso nulla si possiede.
 > -- *Montaigne*
