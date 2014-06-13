@@ -36,9 +36,7 @@ La necessità di una riforma del calendario giuliano era già sentita da secoli.
 
 **La "scoperta" degli errori**
 Il primo ad accorgersi e a divulgare gli errori presenti nel calendario giuliano fu Ruggero Bacone che nel XIII secolo poteva affermare  
-[[http://googledrive.com/host/0B3oUjeoosUeQSjlxNWh5dmlCWUU/roger-bacon-4.jpg|> Kalendarium est intolerabilis omni sapienti, et horribilis omni astronomo, et derisibilis ab omni computista.
--- *Ruggero Bacone, Opus tertium, cap. 1 XVII* 
-> Il calendario è intollerabile per ogni erudito, orribile per ogni astronomo, e derisibile da ogni computista. -- *Ruggero Bacone, Opus tertium, cap. 1 XVII*]]
+[[http://googledrive.com/host/0B3oUjeoosUeQSjlxNWh5dmlCWUU/roger-bacon-4.jpg|> Kalendarium est intolerabilis omni sapienti, et horribilis omni astronomo, et derisibilis ab omni computista. -- *Ruggero Bacone, Opus tertium, cap. 1 XVII* > Il calendario è intollerabile per ogni erudito, orribile per ogni astronomo, e derisibile da ogni computista. -- *Ruggero Bacone, Opus tertium, cap. 1 XVII*]]
 
 Tre secoli dopo fu Copernico a richiamare l'attenzione sull'imprecisione del calendario giuliano. Bacone e Copernico sono solo due nomi eccellenti fra i molti che nel corso dei secoli criticarono o proposero una riforma del calendario. Un elemento ha accomunato tutte queste proposte: il fatto che non vennero mai prese seriamente in considerazione. Per portare a compimento una riforma che sarebbe entrata prepotentemente nelle vite di tutti, era necessaria, all'epoca come lo sarebbe oggi, una forte volontà politica. 
 
