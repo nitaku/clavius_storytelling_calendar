@@ -16,6 +16,18 @@
                   // |[blabla]| -> <span class="demo">blabla</span>
                   return text.replace(/\|\[(.*)\]\|/g, '<span class="demo">$1</span>');
                 }
+              },{
+                type: 'lang',
+                filter: function(text) {
+                  return text.replace(/\\[\[\[(.*)\]\]\]/g, '<div id="$1"></div>');    
+                    
+                }
+              },{
+                type: 'lang',
+                filter: function(text) {
+                  return text.replace(/\\<<<(.*)>>>/g, '<span id="$1"></span>');    
+                    
+                }
               }];
             };
             window.Showdown.extensions.storytelling = storytelling;
