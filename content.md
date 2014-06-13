@@ -3,9 +3,11 @@ Alla ricerca del tempo perduto
 =========
 
 
-![img1][photo1]
 
-Indice:
+![giornale1][giornale1]
+![giornale2][giornale2]
+![giornale3][giornale3]
+
 
 ## 1. 
 Astronomi matematici teologi si sono coalizzati per toglierci dieci giorni di vita? Dopo l'invenzione dell'ora legale, che ci toglie un'ora a primavera, per restituircela (ma senza interessi!) in autunno, andremo a letto la sera di martedi 4 ottobre, per la festa di San Francesco, per destarci la mattina dopo il venerdi 15 ottobre! 
@@ -80,7 +82,9 @@ Noi nel XXI secolo viviamo in un mondo unificato da un calendario a cui si confo
 Negli aeroporti di Pechino, del Cairo, di Gerusalemme data ed ora dei voli sono segnalati  secondo il calendario promulgato da Gregorio XIII grazie alla consulenza risolutiva del gesuita Cristoforo Clavio.
 
 
-[photo1]: http://googledrive.com/host/0B3oUjeoosUeQSjlxNWh5dmlCWUU/William_Hogarth.jpg
+[giornale1]: http://googledrive.com/host/0B3oUjeoosUeQSjlxNWh5dmlCWUU/giornale1.jpg
+[giornale2]: http://googledrive.com/host/0B3oUjeoosUeQSjlxNWh5dmlCWUU/giornale2.jpg
+[giornale3]: http://googledrive.com/host/0B3oUjeoosUeQSjlxNWh5dmlCWUU/giornale3.jpg
 [recepimento]: http://upload.wikimedia.org/wikipedia/en/timeline/5548500808a3da878b2d71602a5cb5aa.png
 [roger-bacon-4]:  http://googledrive.com/host/0B3oUjeoosUeQSjlxNWh5dmlCWUU/roger-bacon-4.jpg
 [par.3_gregoriano]: http://googledrive.com/host/0B3oUjeoosUeQSjlxNWh5dmlCWUU/par.3_gregoriano.jpg
