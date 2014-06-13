@@ -33,7 +33,8 @@ Almeno nel mondo cattolico entrava in vigore il Calendario Gregoriano, secondo [
 - Per effetto della Bolla siglata da papa Gregorio XIII il 24 febbraio 1582 (o 1581?) nella sua villa di Frascati il mercoledi 5 ottobre 1582 si sarebbe trasformato nel venerdi 15 ottobre 1582
 
 
-## 3. La riforma del calendario
+## 3. La riforma del calendario 
+![Calendario gregoriano][par.3_gregoriano]
 **Il calendario giuliano**
 La necessità di una riforma del calendario giuliano era già sentita da secoli. Lo strumento di misurazione del tempo introdotto da Giulio Cesare nel 45 a.C. iniziò ad essere usato impropriamente già un secolo dopo la sua introduzione, quando si decise di inserire un anno bisestile ogni 3, anziché ogni 4 anni. Il calendario giuliano conteneva comunque già nel suo impianto teorico un errore: considerava infatti la durata di un anno corrispondente a 365 giorni e 6 ore, introducendo così un errore di 11 minuti nella sua reale durata. Se si immagina questo errore considerando solo la vita di un uomo, esso non influisce in maniera decisiva sulla sua esistenza. Ma se si considera un arco di tempo di secoli questo piccolo errore comincia a sconvolgere sempre di più una società, a maggior ragione una società come quella cristiana, totalmente permeata dalla religione, la cui vita era scandita dal calendario delle feste religiose. Per motivi teologici era di fondamentale importanza celebrare queste ricorrenze con estrema precisione, per cui un errore di giorni nel loro calcolo non poteva essere ammesso. 
 
@@ -63,6 +64,9 @@ I lavori della commissione durarono fino al 1582: il 24 febbraio di quell'anno G
 **[link al testo della bolla, latino-italiano-altre lingue]**
 
 ## 4. Ricezione della riforma
+![Calvius][par.4_Christopher_Clavius.jpg]
+![Maestlin][par.4_Michael_Maestlin.jpg]
+
 **Aspetto simbolico-politico della riforma**
 La promulgazione del calendario gregoriano, sebbene rappresenti ai nostri occhi un indiscutibile progresso scientifico, non venne interpretata esclusivamente in questo modo al momento della sua emanazione. L'Europa dell'epoca stava vivendo dall'inizio del Cinquecento una situazione di grande frammentazione dovuta allo scisma causato dalla riforma protestante, portata avanti da Lutero a partire dai paesi di area tedesca. La riforma aveva decretato una netta separazione all'interno dell'Europa cristiana, e in breve da disputa teologica si era tramutata in un violento clima di scontri politici. Con la riforma del calendario Gregorio XIII, cattolico, voleva ridare unità a tutti i cristiani, cattolici e protestanti, riconducendoli sotto il proprio potere spirituale attraverso l'adozione di un nuovo e comune modo di misurare il tempo.
 
@@ -73,7 +77,9 @@ Come era lecito immaginare, probabilmente anche dallo stesso Gregorio XIII, il r
 **Il ruolo di Clavius**
 Keplero non fu l'unico uomo di scienza protestante ad opporsi alla riforma. Alcuni tentarono di attaccarla anche dal punto di vista scientifico, come Giuseppe Giusto Scaligero, noto per essere stato tra i più grandi eruditi della sua epoca, o [Michael Maestlin](http://www-history.mcs.st-and.ac.uk/Biographies/Mastlin.html), maestro di Keplero. Per ribattere a questi attacchi i vari papi che si susseguirono tra le fine del Cinquecento e l'inizio del Seicento incaricarono uno dei principali autori della riforma: Christophorus Clavius. Il gesuita, docente di matematica presso il Collegio romano, era anch'egli considerato un'autorità nel campo delle scienze. Basti considerare che il giovane Galileo Galilei nel 1588 si rivolse a lui per farsi scrivere una lettera di referenza per concorrere alla cattedra di matematica vacante presso l'università di Bologna.
 **[inserire un'iconcina di una lettera che rimanda alla lettera 42 (apug 530). Inseire poi la didascalia: "Questa lettera è molto importante perché è la prima del carteggio Clavius-Galilei e anche perché è la più antica lettera di Galileo che si conservi integra e datata. Inoltre è l'unica che testimonia un soggiorno romano di Galileo nel 1587, dove probabilmente conobbe Clavius da cui cercava un appoggio (forse) per ottenere la cattedra di matematica allo Studio di Bologna: Clavius raccomandò però Giovanni Antonio Magini, la cui produzione scientifica era più importante in quegli anni. Galileo chiede a Clavius di verificare la correttezza di una dimostrazione geometrica."]**
-Clavius grazie anche all'aiuto di alcuni suoi allievi ribattè colpo su colpo agli attacchi dei protestanti, sicuro della correttezza che era stato svolto dalla commissione di riforma. 
+
+Clavius grazie anche all'aiuto di alcuni suoi allievi ribattè colpo su colpo agli attacchi dei protestanti, sicuro della correttezza che era stato svolto dalla commissione di riforma. Testimonianza di questo sono una serie di scritti usciti tra il 1582 e il 1603, anno in cui Clavius pubblicò la "spiegazione" del calendario, mettendo fine alla polemica ma non per questo contribuendo all'adozione del calendario gregoriano anche nei paesi protestanti.
+[immagine manoscritto]
 
 **Introduzione del calendario gregoriano**
 Come si può osservare nella visualizzazione, l'introduzione del calendario non fu immediata né universale.
@@ -86,16 +92,12 @@ Come si può osservare nella visualizzazione, l'introduzione del calendario non 
 > -- *Montaigne*
 
 
-[photo1]: http://googledrive.com/host/0B3oUjeoosUeQSjlxNWh5dmlCWUU/William_Hogarth.jpg
-[recepimento]: http://upload.wikimedia.org/wikipedia/en/timeline/5548500808a3da878b2d71602a5cb5aa.png
-[roger-bacon-4]:  http://googledrive.com/host/0B3oUjeoosUeQSjlxNWh5dmlCWUU/roger-bacon-4.jpg
-
-  [1]: http://drive.google.com/?authuser=0#folders/0B3oUjeoosUeQSjlxNWh5dmlCWUU
-
 
 [photo1]: http://googledrive.com/host/0B3oUjeoosUeQSjlxNWh5dmlCWUU/William_Hogarth.jpg
 [recepimento]: http://upload.wikimedia.org/wikipedia/en/timeline/5548500808a3da878b2d71602a5cb5aa.png
 [roger-bacon-4]:  http://googledrive.com/host/0B3oUjeoosUeQSjlxNWh5dmlCWUU/roger-bacon-4.jpg
-
+[par.3_gregoriano]: http://googledrive.com/host/0B3oUjeoosUeQSjlxNWh5dmlCWUU/par.3_gregoriano
+[par.4_Christopher_Clavius.jpg]: http://googledrive.com/host/0B3oUjeoosUeQSjlxNWh5dmlCWUU/par.4_Christopher_Clavius.jpg
+[par.4_Michael_Maestlin.jpg]: http://googledrive.com/host/0B3oUjeoosUeQSjlxNWh5dmlCWUU/par.4_Michael_Maestlin.jpg
   [1]: http://drive.google.com/?authuser=0#folders/0B3oUjeoosUeQSjlxNWh5dmlCWUU
   
